@@ -25,7 +25,7 @@
     "reason-react",
     "create-reason-react-app"
   ],
-  "author": "Mateusz Zatorski",
+  "author": "Tobias Lengsholz",
   "license": "MIT",
   "dependencies": {
     "bs-director": "^0.0.1",
